@@ -10,7 +10,7 @@ env:
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 5e9d694a-0335-4880-979b-f92f3090a6a1
 
-  WEBAPP-NAME: az400-webapp-Test
+  WEBAPP-NAME: az400-webapp-Danielk-Test
 
 
 jobs:
